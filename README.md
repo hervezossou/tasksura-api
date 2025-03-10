@@ -1,4 +1,4 @@
-# Taskify - Task Management API
+# Tasksura - Task Management API
 
 Taskify est une API RESTful permettant de gérer des tâches de manière efficace. Elle offre des fonctionnalités comme l'authentification des utilisateurs, la création, la mise à jour et la suppression de tâches avec gestion des priorités et des statuts.
 
@@ -23,8 +23,8 @@ Taskify est une API RESTful permettant de gérer des tâches de manière efficac
 
 ### 1️⃣ Cloner le projet
 ```sh
-git clone https://github.com/votre-utilisateur/tasksura-api.git
-cd taskify
+git clone https://github.com/hervezossou/tasksura-api.git
+cd tasksura 
 ```
 
 ### 2️⃣ Installer les dépendances
