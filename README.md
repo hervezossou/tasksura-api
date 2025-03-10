@@ -23,7 +23,7 @@ Taskify est une API RESTful permettant de gérer des tâches de manière efficac
 
 ### 1️⃣ Cloner le projet
 ```sh
-git clone https://github.com/votre-utilisateur/tasksura.git
+git clone https://github.com/votre-utilisateur/tasksura-api.git
 cd taskify
 ```
 
